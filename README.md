@@ -23,7 +23,7 @@
 
 | Gable Roof | Hip Roof | Pyramid Roof |
 | :--------: | :------: | :----------: |
-| ![Gable Roof](https://ballast.web.app/gable.png) | ![Gable Roof](https://ballast.web.app/gable.png) | ![Hip Roof](https://ballast.web.app/hip.png) |
+| ![Gable Roof](https://ballast.web.app/gable.png) | ![Hip Roof](https://ballast.web.app/hip.png) | ![Pyramid Roof](https://ballast.web.app/pyramid.png) |
 
 
 >Clear wind flow denotes unobstructed wind flow with no blockage (e.g., plain, grass land, large parking lot). Partially obstructed wind flow denotes relatively unobstructed wind flow with blockage less than or equal to 50%.
