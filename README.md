@@ -7,8 +7,6 @@
 
 ## Assumptions
 
-
-
  1. Wind pressure is applied on the windward wall (if side is present) and on the roof profile vertical projection.
  2. Wind pressure is calculated from the wind speed using p = 0.00256 V2, where V is the wind speed in miles per hour (mph) and p is the pressure in pound per square foot (psf). For instance, if V = 70 mph, p = 12.5 psf.
  3. Vertical wind load (uplift) is not considered as it is a different mode of failure.
