@@ -5,39 +5,11 @@ extensions:
 ---
 
 <h1 id="calculation-of-overturn-moment-due-to-horizontal-wind-force">Calculation of overturn moment due to horizontal wind force</h1>
-
-<table>
-<thead>
-<tr>
-<th align="center">This tool calculates the load at each guy to resist overturn due to horizontal wind force.</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://ballast.web.app/tent.png" alt="enter image description here"></td>
-</tr>
-</tbody>
-</table><h2 id="assumptions">Assumptions</h2>
-
-<table>
-<thead>
-<tr>
-<th align="center"></th>
-<th align="center"></th>
-<th align="center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><img src="https://ballast.web.app/p1.png" alt=""></td>
-<td align="center"><img src="https://ballast.web.app/p2.png" alt=""></td>
-<td align="center"><img src="https://ballast.web.app/p3.png" alt=""></td>
-</tr>
-</tbody>
-</table><ol>
+<p><img src="https://ballast.web.app/tent.png" alt="Tent"></p>
+<h3 id="this-tool-calculates-the-load-at-each-guy-to-resist-overturn-due-to-horizontal-wind-force.">This tool calculates the load at each guy to resist overturn due to horizontal wind force.</h3>
+<p><img src="https://ballast.web.app/p1.png" alt="asdf"><img src="https://ballast.web.app/p2.png" alt="asdf"><img src="https://ballast.web.app/p3.png" alt="asdf"></p>
+<h2 id="assumptions">Assumptions</h2>
+<ol>
 <li>Wind pressure is applied on the windward wall (if side is present) and on the roof profile vertical projection.</li>
 <li>Wind pressure is calculated from the wind speed using p = 0.00256 V2, where V is the wind speed in miles per hour (mph) and p is the pressure in pound per square foot (psf). For instance, if V = 70 mph, p = 12.5 psf.</li>
 <li>Vertical wind load (uplift) is not considered as it is a different mode of failure.</li>
@@ -47,7 +19,7 @@ extensions:
 <li>The number of ballasts per corner post is the same for the four corners.</li>
 </ol>
 <h2 id="user-input">User Input</h2>
-<p><img src="https://ballast.web.app/labeled.png" alt="enter image description here"></p>
+<p><img src="https://ballast.web.app/labeled.png" alt="labeled tent"></p>
 
 <table>
 <thead>
