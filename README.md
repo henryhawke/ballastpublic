@@ -1,5 +1,6 @@
 ---
-
+extensions:
+  preset: gfm
 
 ---
 
@@ -13,7 +14,10 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://ballast.web.app/tent.png" alt="enter image description here" width="500"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center"><img src="https://ballast.web.app/tent.png" alt="enter image description here"></td>
 </tr>
 </tbody>
 </table><h2 id="assumptions">Assumptions</h2>
@@ -43,7 +47,7 @@
 <li>The number of ballasts per corner post is the same for the four corners.</li>
 </ol>
 <h2 id="user-input">User Input</h2>
-<p><img src="https://ballast.web.app/labeled.png" alt="enter image description here" width="600"></p>
+<p><img src="https://ballast.web.app/labeled.png" alt="enter image description here"></p>
 
 <table>
 <thead>
