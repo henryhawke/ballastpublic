@@ -13,7 +13,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://ballast.web.app/labeled.png" alt="enter image description here" width="600"></td>
+<td align="center"><img src="https://ballast.web.app/tent.png" alt="enter image description here" width="500"></td>
 </tr>
 </tbody>
 </table><h2 id="assumptions">Assumptions</h2>
@@ -22,11 +22,15 @@
 <thead>
 <tr>
 <th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="https://ballast.web.app/wind3panel.png" alt="enter image description here" width="600"></td>
+<td align="center"><img src="https://ballast.web.app/p1.png" alt=""></td>
+<td align="center"><img src="https://ballast.web.app/p2.png" alt=""></td>
+<td align="center"><img src="https://ballast.web.app/p3.png" alt=""></td>
 </tr>
 </tbody>
 </table><ol>
