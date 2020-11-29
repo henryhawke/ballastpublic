@@ -2,7 +2,15 @@
 
 ### This tool calculates the load at each guy to resist overturn due to horizontal wind force. 
 ![enter image description here](https://ballast.web.app/tent.png)
-|![asdf](https://ballast.web.app/p1.png)![asdf](https://ballast.web.app/p2.png)![asdf](https://ballast.web.app/p3.png)|
+
+[1]: https://ballast.web.app/p1.png "p1"
+[2]: https://ballast.web.app/p2.png "p2"
+[3]: https://ballast.web.app/p3.png "p3"
+
+|  |  |  |
+| :------: | :------: | :------: |
+| ![Gable Roof][1] | ![Hip Roof][2] | ![Pyramid Roof][3] |
+
 ## Assumptions
 
 
@@ -21,9 +29,13 @@
 
 ## Types
 
+[gable]: https://ballast.web.app/gable.png "Gable Roof"
+[hip]: https://ballast.web.app/hip.png "Hip Roof"
+[pyramid]: https://ballast.web.app/pyramid.png "Pyramid Roof"
+
 | Gable Roof | Hip Roof | Pyramid Roof |
 | :--------: | :------: | :----------: |
-| ![Gable Roof](https://ballast.web.app/gable.png) | ![Hip Roof](https://ballast.web.app/hip.png) | ![Pyramid Roof](https://ballast.web.app/pyramid.png) |
+| ![Gable Roof][gable] | ![Hip Roof][hip] | ![Pyramid Roof][pyramid] |
 
 
 >Clear wind flow denotes unobstructed wind flow with no blockage (e.g., plain, grass land, large parking lot). Partially obstructed wind flow denotes relatively unobstructed wind flow with blockage less than or equal to 50%.
