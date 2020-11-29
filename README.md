@@ -25,5 +25,4 @@
 
 
 >Clear wind flow denotes unobstructed wind flow with no blockage (e.g., plain, grass land, large parking lot). Partially obstructed wind flow denotes relatively unobstructed wind flow with blockage less than or equal to 50%.
-
 >Obstructed wind flow denotes objects below roof inhibiting wind flow with 50% blockage (e.g., urban environment, dense vegetation all the way around)
