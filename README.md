@@ -1,4 +1,4 @@
-# Calculation of overturn moment due to horizontal wind force
+# Calculation of ballast weights on frame tents
 
 ### This tool calculates the load at each guy to resist overturn due to horizontal wind force. 
 ![enter image description here](https://ballast.web.app/tent.png)
