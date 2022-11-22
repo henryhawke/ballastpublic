@@ -1,7 +1,5 @@
 # Calculation of ballast weights for frame tents
 
-##https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
 ### This tool calculates the load at each guy to resist overturn due to horizontal wind force. 
 
 
