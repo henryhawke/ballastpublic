@@ -1,6 +1,10 @@
 # Calculation of ballast weights for frame tents
 
+##https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 ### This tool calculates the load at each guy to resist overturn due to horizontal wind force. 
+
+
 ![enter image description here](https://ballast.web.app/tent.png)
 
 ![Gable Roof](https://ballast.web.app/p1.png) ![Pyramid Roof](https://ballast.web.app/p2.png) ![Hip Roof](https://ballast.web.app/p3.png)
